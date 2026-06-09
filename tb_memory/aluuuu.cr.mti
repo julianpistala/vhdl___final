@@ -1,0 +1,19 @@
+C:/altera/13.1/vhdlfinal/ALU/ALU.vhd {1 {vcom -work work -2002 -explicit C:/altera/13.1/vhdlfinal/ALU/ALU.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture behavioral of ALU
+
+} {} {}} C:/altera/13.1/vhdlfinal/ALU_TB_1/ALU_TB_1.vhd {1 {vcom -work work -2002 -explicit C:/altera/13.1/vhdlfinal/ALU_TB_1/ALU_TB_1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU_TB_1
+-- Compiling architecture behavioral of ALU_TB_1
+
+} {} {}}

@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\vhdlfinal\tb_alu
+Ealu
+Z1 w1780559274
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\altera\13.1\vhdlfinal\tb_alu
+Z6 8C:/altera/13.1/vhdlfinal/ALU/ALU.vhd
+Z7 FC:/altera/13.1/vhdlfinal/ALU/ALU.vhd
+l0
+L5
+Va@AKSAZz`B>z9?7z0B[SI3
+!s100 [:5P9gfh4^0@4XzePleje0
+Z8 OV;C;10.1d;51
+32
+!i10b 1
+Z9 !s108 1780976755.636000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/altera/13.1/vhdlfinal/ALU/ALU.vhd|
+Z11 !s107 C:/altera/13.1/vhdlfinal/ALU/ALU.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Abehavioral
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 a@AKSAZz`B>z9?7z0B[SI3
+l16
+L15
+VZ10=2UORZD3OKaG[O0RRD1
+!s100 BOK:AkW7_h;hlBZjc51_=2
+R8
+32
+!i10b 1
+R9
+R10
+R11
+R12
+R13
+Etb_alu
+Z14 w1780976755
+R2
+R3
+R4
+R5
+Z15 8C:/altera/13.1/vhdlfinal/tb_alu/tb_alu.vhd
+Z16 FC:/altera/13.1/vhdlfinal/tb_alu/tb_alu.vhd
+l0
+L5
+VSQ@oBA___?`PSMibA_Y840
+R8
+32
+Z17 !s108 1780976755.441000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/altera/13.1/vhdlfinal/tb_alu/tb_alu.vhd|
+Z19 !s107 C:/altera/13.1/vhdlfinal/tb_alu/tb_alu.vhd|
+R12
+R13
+!s100 LLD^LLM]D4Z14XiiQ<cWP1
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+DEx4 work 6 tb_alu 0 22 SQ@oBA___?`PSMibA_Y840
+l26
+L8
+VQ8`[@LkBHD>_oZ7hGQ>Pg3
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 3`iS0KcKaeEA>8ZdcIEU?0
+!i10b 1
